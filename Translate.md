@@ -23,8 +23,8 @@
   "tip"：  
   "tip"一般是各种提示工具，例如："Tip"、 "Ubertip"、 "Researchtip" 、"Researchubertip",一般汉化这些项就算到位了。  
 (3). wts部分：  
-直接文本编辑器打开然后把需要汉化文本的汉化了就行，一般是这样的格式：
-STRING XXX
+直接文本编辑器打开然后把需要汉化文本的汉化了就行，一般是这样的格式：　　
+STRING XXX  
 {
   <字符串体>
 }
