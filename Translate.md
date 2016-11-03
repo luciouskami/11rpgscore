@@ -36,7 +36,7 @@ STRING XXX
 打开“war3mapskin.txt”进行汉化。
  2. 汉化j文件：
 ============ 
-jass函数参数部分：
+jass函数参数部分：  
 	 ```jass
     native S2I  takes string s returns integer
     native S2R  takes string s returns real
