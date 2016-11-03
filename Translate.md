@@ -24,12 +24,12 @@
   "tip"一般是各种提示工具，例如："Tip"、 "Ubertip"、 "Researchtip" 、"Researchubertip",一般汉化这些项就算到位了。  
 (3). wts部分：  
 直接文本编辑器打开然后把需要汉化文本的汉化了就行，一般是这样的格式：　
-```jass
+	```jass
 STRING XXX
 {
   <字符串体>  
 }  
-```
+	```
 (4).w3i部分：
 打开“war3map.w3i.ini”进行汉化即可。
 (5).游戏平衡常数文件部分：
